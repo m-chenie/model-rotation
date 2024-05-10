@@ -1,0 +1,2 @@
+../Core/Src/bno55.c:5:6:BNO055_Init_DNOF	1
+../Core/Src/bno55.c:17:9:GetEulerData	1
